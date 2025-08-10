@@ -1,1 +1,1 @@
-This repository contains code for modeling bedload transport by seismic noise. Paper can be found at the [JGR ES](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JF007761)
+This repository contains code for modeling bedload transport by seismic noise. Paper can be found at the [JGR Earth Surface](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JF007761)
